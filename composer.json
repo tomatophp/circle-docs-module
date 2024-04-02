@@ -2,6 +2,7 @@
     "name": "tomatophp/circle-docs-module",
     "type": "laravel-module",
     "description": "Create and share, search in your docs using markdown editor and GitHub integration",
+    "license": "MIT",
     "keywords": [
         "laravel",
         "module",
